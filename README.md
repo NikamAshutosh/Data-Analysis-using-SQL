@@ -7,20 +7,15 @@ This project involves analyzing a dataset from a music store using SQL to derive
 **Steps Involved:**
 
 **Data Exploration:** Understand the structure and contents of the dataset.
-
 **Data Cleaning:** Handle missing values, outliers, or any inconsistencies in the data.
-
 **SQL Queries:** Write SQL queries to extract, transform, and analyze data to answer predefined questions.
-
 **Data Analysis:** Perform aggregation, filtering, and joining operations to derive meaningful insights.
 
 
 **Tools and Technologies:**
 
 **SQL:** Used for querying the database and performing data manipulation.
-
 **Database Management System:** MySQL for the dataset.
-
 **Rishabh Mishra's YouTube Channel:** Leveraged for learning SQL techniques and best practices.
 
 
